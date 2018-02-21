@@ -7,6 +7,12 @@
 只能通过电脑端线刷一下VIVO X7官方固件的方式来解锁清除相关密码后使用了
 ```
 
+## tips:
+```conf
+user: 17607171608
+pass: CommonPassword
+```
+
 ## 准备工具：
 - 准备好数据线，一会儿要数据线连接电脑和手机 (通用 android 线即可)
 - 云盘里的工具箱：全部/006-Software/Phone Files/vivo-x7/`vivo_X7_PD1602_A_3.6.10_Android 5.1.1. 官方原厂线刷包.zip`
