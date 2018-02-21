@@ -1,10 +1,15 @@
 # vivo-x7-crack
 > Vivo x7 crack notes.
 
+## 背景：
+```conf
+亲测过的，X7手机锁屏密码或是VIVO账户密码一旦忘记了，无法自行找回密码的话
+只能通过电脑端线刷一下VIVO X7官方固件的方式来解锁清除相关密码后使用了
+```
 
 ## 准备工具：
-- 准备好数据线，一会儿要数据线连接电脑和手机
-- 云盘里的工具箱：全部/006-Software/Phone Files/vivo-x7
+- 准备好数据线，一会儿要数据线连接电脑和手机 (通用 android 线即可)
+- 云盘里的工具箱：全部/006-Software/Phone Files/vivo-x7/`vivo_X7_PD1602_A_3.6.10_Android 5.1.1. 官方原厂线刷包.zip`
 
 
 ## 步骤：
